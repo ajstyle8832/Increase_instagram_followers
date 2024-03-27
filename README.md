@@ -1,6 +1,4 @@
-To create a comprehensive README for your GitHub repository focused on a Django project that interacts with Instagram's API, you should structure it with clear headings, a table of contents, and detailed instructions. Below is an example of how you can structure and write your README:
-
-```markdown
+## Here's a step-by-step guide to creating a Django project that can get followers and views for Instagram reels, and use the Instagram Basic Display API to get the user's media.
 # Instagram Django Integration
 
 A Django project to interact with Instagram's API, enabling functionalities like retrieving Instagram followers and views for Instagram reels.
@@ -124,7 +122,7 @@ from django.test import TestCase
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/yourusername/instagram-django-integration/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/ajstyle883/Increase_instagram_followers/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
