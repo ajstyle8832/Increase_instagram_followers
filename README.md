@@ -39,7 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/instagram-django-integration.git
+   git clone https://github.com/ajstyle883/Increase_instagram_followers.git
    cd instagram-django-integration
    ```
 
