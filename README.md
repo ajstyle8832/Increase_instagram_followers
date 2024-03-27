@@ -39,7 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ajstyle883/Increase_instagram_followers.git
+   git clone https://github.com/ajstyle8832/Increase_instagram_followers.git
    cd instagram-django-integration
    ```
 
@@ -122,7 +122,7 @@ from django.test import TestCase
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/ajstyle883/Increase_instagram_followers/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/ajstyle8832/Increase_instagram_followers/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
